@@ -1,0 +1,3 @@
+tlsCerts:
+  # [Optional]. Use system certificate pool when connecting to peers, orderers (for negotiating TLS) Default: false
+  systemCertPool: false
